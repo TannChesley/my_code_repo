@@ -1,2 +1,3 @@
 # my_code
-my_code repo
+my_code_repo hosted on github.com
+
